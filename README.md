@@ -65,6 +65,8 @@ This repo makes you can diaplay something(always imags) like as below with 9 sty
     
 # Usage    
 
+Download the repo and copy the **Layout** directory below the **BLLSudokuImageLayout** to your project.
+
 The code below will use the **BLLCollectionViewImageSudokuLayout** class to config the collectionview's layout.
 
 ```
