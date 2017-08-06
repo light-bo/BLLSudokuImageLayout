@@ -55,7 +55,7 @@ This repo makes you can diaplay something(always imags) like as below with 9 sty
 </div>
     
     
-#Features   
+# Features   
 
 * Using custom UICollectionViewLayout to make the view
 * Support custom height of the view
@@ -63,7 +63,7 @@ This repo makes you can diaplay something(always imags) like as below with 9 sty
 * Works with ARC and iOS >= 7
     
     
-#Usage    
+# Usage    
 
 The code below will use the **BLLCollectionViewImageSudokuLayout** class to config the collectionview's layout.
 
@@ -85,8 +85,7 @@ The code below will use the **BLLCollectionViewImageSudokuLayout** class to conf
 ```
     
     
-#License    
-
+# License
 BLLSudokuImageLayout is licensed under the terms of the **MIT** License. Please see the LICENSE file for full details.
 
 If this code was helpful, I would love to hear from you.
