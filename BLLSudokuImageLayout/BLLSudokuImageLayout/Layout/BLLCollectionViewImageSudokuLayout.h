@@ -11,12 +11,16 @@
 @interface BLLCollectionViewImageSudokuLayout : UICollectionViewFlowLayout
 
 /**
+ The intermal of each column.
+ 
  每一列的间距
  */
 @property (nonatomic, assign) float columnMargin;
 
 
 /**
+ The interval of each row.
+ 
  每一行的间距
  */
 @property (nonatomic, assign) float rowMargin;
