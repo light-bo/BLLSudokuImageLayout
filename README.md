@@ -86,7 +86,7 @@ The code below will use the **BLLCollectionViewImageSudokuLayout** class to conf
     
     
 # License
-BLLSudokuImageLayout is licensed under the terms of the **MIT** License. Please see the LICENSE file for full details.
+**BLLSudokuImageLayout** is licensed under the terms of the **MIT** License. Please see the LICENSE file for full details.
 
 If this code was helpful, I would love to hear from you.
 
