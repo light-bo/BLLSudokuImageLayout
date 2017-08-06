@@ -1,5 +1,4 @@
 # BLLSudokuImageLayout
----
 This repo makes you can diaplay something(always imags) like as below with 9 style according to the amount of the thing(always imags),the number on the view's top is show as descript info, not a component of the view.  (类似 **nice** app 首页列表中图片显示效果的 UI 组件】):
 
 <div  align="left">
