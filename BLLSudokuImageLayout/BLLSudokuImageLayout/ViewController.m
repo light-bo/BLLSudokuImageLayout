@@ -58,7 +58,7 @@ static NSString *const kDemoTableCell = @"BLLDemoTableViewCell";
         case 0:
         case 1:
             
-            return screenHeight * 0.39;
+            return screenHeight * 0.40;
             break;
             
         case 2:
@@ -66,24 +66,24 @@ static NSString *const kDemoTableCell = @"BLLDemoTableViewCell";
             break;
             
         case 3:
-            return screenHeight * 0.51;
+            return screenHeight * 0.55;
             break;
             
         case 4:
-            return screenHeight * 0.43;
+            return screenHeight * 0.48;
             break;
             
         case 5:
-            return screenHeight * 0.51;
+            return screenHeight * 0.56;
             break;
             
         case 6:
         case 7:
-            return screenHeight * 0.60;
+            return screenHeight * 0.65;
             break;
             
         case 8:
-            return screenHeight * 0.51;
+            return screenHeight * 0.55;
             break;
             
         default:
