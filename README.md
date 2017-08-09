@@ -64,7 +64,7 @@ This repo makes you can diaplay something(always imags) like as below with 9 sty
     
 
 # Installation
-## Cocoapod
+### Cocoapod
 To integrate AFNetworking into your Xcode project using CocoaPods, specify it in your **Podfile**:
 ```
 pod 'BLLSudokuImageLayout'
@@ -76,7 +76,7 @@ Then, run the following command:
 $ pod install
 ```
 
-## Manual
+### Manual
 Just download the repo and copy the **Layout** directory below the **BLLSudokuImageLayout** to your project.
 
 
