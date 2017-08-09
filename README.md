@@ -62,10 +62,25 @@ This repo makes you can diaplay something(always imags) like as below with 9 sty
 * Support custom amount of the color region
 * Works with ARC and iOS >= 7
     
-    
-# Usage    
 
-Download the repo and copy the **Layout** directory below the **BLLSudokuImageLayout** to your project.
+# Installation
+## Cocoapod
+To integrate AFNetworking into your Xcode project using CocoaPods, specify it in your **Podfile**:
+```
+pod 'BLLSudokuImageLayout'
+```
+
+Then, run the following command:
+
+```bash
+$ pod install
+```
+
+## Manual
+Just download the repo and copy the **Layout** directory below the **BLLSudokuImageLayout** to your project.
+
+
+# Usage    
 
 The code below will use the **BLLCollectionViewImageSudokuLayout** class to config the collectionview's layout.
 
